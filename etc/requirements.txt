@@ -1,0 +1,10 @@
+Flask
+
+# requests
+# pytz
+
+# sqlalchemy
+# psycopg2-binary
+# redis
+
+
