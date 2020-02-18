@@ -1,6 +1,7 @@
 """ Script for run project """
 from werkzeug.contrib.profiler import ProfilerMiddleware
 from source import app
+from source import middlewares
 from source.local_settings import DEBUG, SERVER_HOST, SERVER_PORT, SECRET_KEY
 
 app.secret_key = SECRET_KEY
