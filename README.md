@@ -1,7 +1,7 @@
 # flask-project-template
 
 ```bash
-git clone git@github.com:ш512/flask-project-template.git
+git clone git@github.com:w512/flask-project-template.git
 mv flask-project-template your-project-name
 cd your-project-name
 virtualenv -p python3 env
